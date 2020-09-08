@@ -118,8 +118,6 @@ function Employeebymanager() {
                        
                     }
                 }
-                 console.log(managers.Id);
-          
                 inquirer.prompt({
                     type: "rawlist",
                     meassage: "Choose a Manager",
